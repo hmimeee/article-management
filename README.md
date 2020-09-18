@@ -24,7 +24,7 @@ sajib@gmail.com
 123456
 ```
 ## Preview
-![alt text](https://github.com/hmimeee/article-management/blob/courier/Preview.png?raw=true)
+![alt text](https://github.com/hmimeee/article-management/blob/master/Preview.png?raw=true)
 
 ## Demo
 [Article Management](https://ms.hmime.com)
